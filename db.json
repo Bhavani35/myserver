@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "ameena bhavani",
+      "email": "ameenabhavani@gmail.com"
+    },
+    {
+      "name": "Gayatri",
+      "email": "gayatri.ga35111@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Jayasree",
+      "email": "pjayasri223@gmail.com",
+      "id": 3
+    }
+  ]
+}
